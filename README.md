@@ -56,15 +56,18 @@ create-insta-post/
 ```
 git clone https://github.com/your-username/create-insta-post.git
 ```
-2. Move to project folder
+### 2. Move to project folder
  ```
 cd create-insta-post
 ```
-3. Install dependencies
+
+### 3. Install dependencies
+
  ```
 npm install
 ```
-4. Start development server
+
+### 4. Start development server
 ```
 npm run dev
 ```
