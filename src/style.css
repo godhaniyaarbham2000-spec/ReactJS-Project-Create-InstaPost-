@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #fafafa;
+}
+
+/* Login + Post container */
+.container {
+  max-width: 500px;
+  margin: auto;
+  padding: 10px;
+}
+
+/* Card style */
+.card {
+  border: 1px solid #ddd;
+  background: #fff;
+  margin: 20px auto;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+/* Input fix */
+input, button {
+  box-sizing: border-box;
+}
+
+/* Create post section */
+.create-post input[type="text"] {
+  width: 100%;
+  padding: 8px;
+  margin-top: 10px;
+}
+
+/* Button fix */
+.create-post button {
+  width: 100%;
+  margin-top: 10px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+/* Image preview */
+.preview {
+  width: 100%;
+  margin-top: 10px;
+}
+
+/* Instagram post actions */
+.actions {
+  display: flex;
+  gap: 15px;
+  padding: 10px;
+  font-size: 22px;
+}
