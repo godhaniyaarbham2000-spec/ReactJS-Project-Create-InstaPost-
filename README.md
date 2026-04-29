@@ -1,16 +1,128 @@
-# React + Vite
+# 📝 ReactJS Instagram Post Clone Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and minimal **React-based Instagram Post Clone Application** with basic social media features like like, comment, and image posting.  
+Built for practice of React fundamentals and portfolio showcase.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- 🔐 Simple login (username based)
+- 🖼️ Upload image post
+- ✍️ Add caption to post
+- ❤️ Like functionality
+- 💬 Comment system
+- 📜 Show/hide comments
+- 🔄 Real-time UI updates without refresh
+- 📱 Responsive design (mobile friendly)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js (Hooks: useState)
+- JavaScript (ES6+)
+- CSS3 (Custom styling)
+- Vite (Fast development build tool)
+- FileReader API (image preview)
+
+---
+
+## 📂 Project Structure
+
+```
+create-insta-post/
+│
+├── src/
+│ ├── components/
+│ │ └── InstagramPost.jsx
+│ │
+│ ├── App.jsx
+│ ├── main.jsx
+│ ├── style.css
+│
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+├── .gitignore
+└── README.md
+```
+---
+
+## ⚙️ How to Run This Project
+
+### 1. Clone the repository
+```
+git clone https://github.com/your-username/create-insta-post.git
+```
+2. Move to project folder
+ ```
+cd create-insta-post
+```
+3. Install dependencies
+ ```
+npm install
+```
+4. Start development server
+```
+npm run dev
+```
+
+---## 💡 Usage
+
+1. Enter username to login  
+2. Upload an image  
+3. Add a caption  
+4. Click **Post** button  
+5. Like ❤️ any post  
+6. Add comments 💬  
+7. Click comment icon to show/hide comments  
+
+---
+
+## 🧠 Key Learning Concepts
+
+- React useState hooks  
+- Props handling  
+- Component-based architecture  
+- Event handling  
+- Conditional rendering  
+- File upload using FileReader API  
+- Array methods (map, spread operator)
+
+---
+
+## 📸 Preview
+
+- Instagram-like post UI  
+- Like & Comment interaction  
+- Simple login screen  
+- Responsive card layout  
+
+---
+
+## ⚠️ Notes
+
+- Frontend-only project  
+- No backend or database used  
+- Data resets on refresh  
+- Built for learning React fundamentals  
+
+---
+
+## 📌 Future Improvements
+
+- Firebase authentication  
+- Real database integration  
+- User profile system  
+- Follow/unfollow feature  
+- Dark mode toggle  
+- Cloud image upload (Cloudinary/Firebase)
+
+---
+
+## 👨‍💻 Author
+
+Arbham Godhaniya  
+MERN Stack Developer 🚀
