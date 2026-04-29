@@ -69,7 +69,8 @@ npm install
 npm run dev
 ```
 
----## 💡 Usage
+---
+## 💡 Usage
 
 1. Enter username to login  
 2. Upload an image  
