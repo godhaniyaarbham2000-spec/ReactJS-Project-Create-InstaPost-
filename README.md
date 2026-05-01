@@ -31,7 +31,7 @@ Built for practice of React fundamentals and portfolio showcase.
 ## 📂 Project Structure
 
 ```
-create-insta-post/
+ReactJS-Project-Create-InstaPost/
 │
 ├── src/
 │ ├── components/
@@ -54,11 +54,11 @@ create-insta-post/
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/your-username/create-insta-post.git
+git clone https://github.com/godhaniyaarbham2000-spec/ReactJS-Project-Create-InstaPost.git
 ```
 ### 2. Move to project folder
  ```
-cd create-insta-post
+cd ReactJS-Project-Create-InstaPost
 ```
 
 ### 3. Install dependencies
