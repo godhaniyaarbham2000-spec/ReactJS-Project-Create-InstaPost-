@@ -1,7 +1,7 @@
 # 📝 ReactJS Instagram Post Clone Project
 
 A clean and minimal **React-based Instagram Post Clone Application** with basic social media features like like, comment, and image posting.  
-Built for practice of React fundamentals and portfolio showcase.
+Built for practice of React fundamentals and portfolio showcase. 
 
 ---
 
